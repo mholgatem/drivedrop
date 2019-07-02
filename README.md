@@ -42,5 +42,5 @@ If you want to embed your new form, you need to make a few changes to the code:
   }
 ```
 3. set embedded to 'true'
-4. set embedURL to the URL of the site that you want to embed your code in
+4. set embedURL to the URL of your site
 
