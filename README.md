@@ -3,7 +3,7 @@ Create an embeddable form that can be used to allow anyone to upload files to yo
 <img style="width:45%;margin:5px" src=https://github.com/mholgatem/drivedrop/raw/master/images/form.jpg>
 
 You can create a copy of DriveDrop by clicking below
-## [Clone DriveDrop](https://script.google.com/d/1mA2_OMh2Fdt9qTg2MYr5NIy_QtYbE_wAtecHt8NgBvtWC5lVCBT-sSha/edit?newcopy=true)
+## [- Click Here To Clone DriveDrop -](https://script.google.com/d/1mA2_OMh2Fdt9qTg2MYr5NIy_QtYbE_wAtecHt8NgBvtWC5lVCBT-sSha/edit?newcopy=true)
 
 ## Instructions
 1. Clone the code
